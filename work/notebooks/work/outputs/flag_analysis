@@ -1,0 +1,12 @@
+Model precision:
+Clicks 0.7053763440860215 
+Impressions: 0.8279883381924198 
+Position: 0.7881987577639752
+Baseline precision:
+Clicks 0.48265368228849664,
+Impressions: 0.9251533742331288, 
+Position: 0.5746753246753247
+Model flags:
+Clicks 465, Impressions: 1029, Position: 1610
+Baseline flags:
+Clicks 1643, Impressions: 1630, Position: 1540
